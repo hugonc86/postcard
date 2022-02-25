@@ -1,0 +1,21 @@
+---
+title: "Hugo Novales"
+image: "IMG_28821.jpeg"
+color1: "#699E92"
+color2: "#69919E"
+angle: 180
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/hugonovales/"
+  - label: Twitter
+    url: "https://twitter.com/hugonovales/"
+  - label: Email
+    url: "mailto: nvoales@uchicago.edu"
+
+output:
+  postcards::onofre
+---
+ 
+I'm a political researcher and analyst, interested in studying and promoting democracy in Central America and particularly in Guatemala. I am currently a student in the [Committee on International Relations (CIR)](https://cir.uchicago.edu) master's program at the University of Chicago.
+
+I have published research on political parties and elections for think tanks in Guatemala and Central America, most of which has dealt with campaign finance regulation. I have also collaborated with international cooperation organizations, civil society groups, and carried out consultancies for the private sector. 
